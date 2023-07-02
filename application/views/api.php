@@ -14,7 +14,7 @@ header("Access-Control-Allow-Methods: GET, OPTIONS");
 	
 </body>
 
-
+ 
 	<script>
 		let require = new XMLHttpRequest();
 		require.open('GET','https://jsonplaceholder.typicode.com/users');
